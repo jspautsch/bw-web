@@ -1,3 +1,11 @@
+export const PLAYER_MODEL = {
+    name: "",
+    health: 20,
+    healthLimit: 25,
+    handLimit: 8,
+    lastStanding: 0
+}
+
 export const WIZARDS = {
     JUNG: {
         name: "Jung Jung the Spirit Master"
